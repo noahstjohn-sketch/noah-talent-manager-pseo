@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://talent-manager.noahstjohn.com/sitemap-index.xml
